@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./tBLUEBANNER.jpg" width="100%" title="hover text">
+  <img src="./tBLUEBANNER.jpg" width="100%" title="banner">
   
 
 </div>
