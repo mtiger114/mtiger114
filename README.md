@@ -28,7 +28,7 @@
 
 ###
 
-<h1 align="center">Hey👋I'm Fahmy  .. your friendly neighborhood front-fnd-dev</h1>
+<h1 align="center">Hey👋I'm Fahmy  .. your friendly neighborhood front-end-dev 👻</h1>
 
 ###
 
@@ -42,7 +42,7 @@
 
 ###
 
-  <h3 align="center">🛠 Language and tools</h3>
+  <h3 align="center">✋ My Tools 🤚</h3>
 
 ###
 
