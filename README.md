@@ -1,6 +1,7 @@
 <div align="center">
-  <img height="200" src="[BLUEBANNER](https://github.com/Ma7moudTiger/Ma7moudTiger/assets/105823344/4e3ad4de-dabc-49ce-a379-f965a1c935bf)
-    "  />
+  <img src="./BLUEBANNER.jpg" width="100%" title="hover text">
+  
+
 </div>
 
 ###
