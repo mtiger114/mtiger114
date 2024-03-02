@@ -33,7 +33,18 @@
 
 ###
 
+<h1 align="center"> 
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Madimi+One&size=32&pause=1000&color=00E9F7&random=false&width=435&lines=Fahmy+Is+Here;Your+friendly+neighborhood+Dev;Stay+Positive;Give+Selflessly;+Be+Authentic;Thanks+for+your+kind+comment)](https://git.io/typing-svg)
+  
+</h1>
+
 <h1 align="center">I'm Fahmy .. your friendly neighborhood front-end-dev 👻</h1>
+
+<p align="center">
+  
+
+</p>
 
 ###
 
